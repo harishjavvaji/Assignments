@@ -26,6 +26,7 @@ public class Registration extends HttpServlet {
 
             System.out.println("For github check");
 
+            System.out.println("CHecking branch");
 
 //            RequestDispatcher requestDispatcher = req.getRequestDispatcher("Login.html");
 //            requestDispatcher.include(req,resp);
