@@ -26,6 +26,9 @@ public class Login extends HttpServlet {
 
             PrintWriter printWriter = resp.getWriter();
             printWriter.print("<html><body> login.html should be called</body></html>");
+
+            System.out.println("For github check");
+
 //            RequestDispatcher requestDispatcher = req.getRequestDispatcher("Welcome.html");
 //            requestDispatcher.include(req,resp);
         }else {
