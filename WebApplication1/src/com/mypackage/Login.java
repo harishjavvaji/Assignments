@@ -29,6 +29,7 @@ public class Login extends HttpServlet {
 
             System.out.println("For github check");
 
+            System.out.println("Changing branch");
 //            RequestDispatcher requestDispatcher = req.getRequestDispatcher("Welcome.html");
 //            requestDispatcher.include(req,resp);
         }else {
